@@ -14,4 +14,4 @@ export class OtherClass {
     other: string;
 }
 ```
-3. rebuild library like described in 'Normal run'
+3. rebuild library like described above.
