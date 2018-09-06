@@ -1,0 +1,14 @@
+{
+    "name": "library",
+    "version": "1.0.0",
+    "author": "Iworb",
+    "description": "library",
+    "noAnalyze": true,
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "angular": "1.5.8",
+        "pip-webui-tasks": "^1.8.0"
+    },
+    "devDependencies": {}
+}
